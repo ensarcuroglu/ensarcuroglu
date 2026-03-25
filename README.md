@@ -1,19 +1,19 @@
 <div align="center">
-  <h1>Hi there, I'm Ensar Sami Curoğlu 👋</h1>
-  <h3>Artificial Intelligence Engineer Candidate | Information Systems Engineering</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning;AI+%7C+Deep+Learning;Full-Stack+Development+(.NET)" alt="Typing SVG" />
+  <h1>Hi there, I'm Ensar Sami Curoğlu 👋</h1>
+  <h3>Artificial Intelligence Engineer Candidate | Information Systems Engineering</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning;AI+%7C+Deep+Learning;Full-Stack+Development+(.NET)" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ensar-sami-curoğlu-b37560251/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ensarcuroglu19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/ensarcuroglu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://www.linkedin.com/in/ensar-sami-curoğlu-b37560251/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ensarcuroglu19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ensarcuroglu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 <br/>
@@ -84,6 +84,10 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ensarcuroglu&show_icons=true&locale=en&theme=radical&hide_border=true" alt="ensarcuroglu stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ensarcuroglu&theme=radical&hide_border=true" alt="ensarcuroglu streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ensarcuroglu&show_icons=true&locale=en&theme=radical&hide_border=true" alt="ensarcuroglu stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ensarcuroglu&theme=radical&hide_border=true" alt="ensarcuroglu streak" height="170"/>
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ensarcuroglu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
