@@ -28,6 +28,17 @@
 
 <br/>
 
+## 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Smart Student Performance Coach](#)** | [cite_start]Multimodal AI platform predicting academic success with a 0.896 R2 accuracy and providing mentorship via Google Gemini LLM[cite: 25]. [cite_start]Integrated with explainable AI (XAI) infrastructure[cite: 26]. | [cite_start]`Python`, `XGBoost`, `SHAP`, `YOLOv8`, `Google Gemini API`, `ASP.NET Core MVC` [cite: 24] |
+| **[Corporate Web Platform](#)** | [cite_start]Full-stack, mobile-responsive corporate website achieving a 100% Lighthouse/SEO score[cite: 29]. [cite_start]Features dynamic content management, SMTP mail service, and SQL database optimization[cite: 30]. | [cite_start]`ASP.NET Core`, `MS SQL`, `Entity Framework`, `SEO` [cite: 28] |
+| **[Movie Rating & ROI Analysis](#)** | [cite_start]Statistical analysis and data visualization of film industry metrics (Budget, ROI, Genre Relations) utilizing the TMDB dataset[cite: 32]. | [cite_start]`Python`, `Pandas`, `Seaborn`, `Matplotlib` [cite: 31] |
+| **[Library Automation System](#)** | [cite_start]Console-based automation developed with dynamic memory allocation and struct architectures[cite: 35]. [cite_start]Ensured data persistence through a TXT-based file system[cite: 36]. | [cite_start]`C`, `Algorithms`, `File Management` [cite: 34] |
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 **Data Science & AI**<br>
