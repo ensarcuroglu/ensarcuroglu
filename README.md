@@ -91,3 +91,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ensarcuroglu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ensarcuroglu&bg_color=0D1117&color=2F80ED&line=2F80ED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</div>
