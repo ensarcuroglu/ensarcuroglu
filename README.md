@@ -32,10 +32,12 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Smart Student Performance Coach](#)** | Multimodal AI platform predicting academic success with a 0.896 R2 accuracy and providing mentorship via Google Gemini LLM. Integrated with explainable AI (XAI) infrastructure. | `Python`, `XGBoost`, `SHAP`, `YOLOv8`, `Google Gemini API`, `ASP.NET Core MVC`  |
-| **[Corporate Web Platform](#)** | Full-stack, mobile-responsive corporate website achieving a 100% Lighthouse/SEO score. Features dynamic content management, SMTP mail service, and SQL database optimization. | `ASP.NET Core`, `MS SQL`, `Entity Framework`, `SEO`  |
-| **[Movie Rating & ROI Analysis](#)** | Statistical analysis and data visualization of film industry metrics (Budget, ROI, Genre Relations) utilizing the TMDB dataset. | `Python`, `Pandas`, `Seaborn`, `Matplotlib`  |
-| **[Library Automation System](#)** | Console-based automation developed with dynamic memory allocation and struct architectures. Ensured data persistence through a TXT-based file system. | `C`, `Algorithms`, `File Management`  |
+| **[Smart Student Performance Coach](#)** | Multimodal AI platform predicting academic success with a 0.896 R2 accuracy and providing mentorship via Google Gemini LLM. Integrated with explainable AI (XAI) infrastructure. | `Python`, `XGBoost`, `SHAP`, `YOLOv8`, `Google Gemini API`, `ASP.NET Core MVC` |
+| **[Warehouse Management System 🚧 (Ongoing)](#)** | Developing an enterprise-level warehouse management system to optimize inventory tracking, order processing, and overall operational efficiency. | `ASP.NET Core`, `C#`, `MS SQL`, `Entity Framework` |
+| **[Turkish Language Proficiency Test App 🚧 (Ongoing)](#)** | Developing a comprehensive mobile application designed to evaluate and enhance Turkish language proficiency through interactive assessments. | `Dart`, `Flutter`, `Firebase` |
+| **[Corporate Web Platform](#)** | Full-stack, mobile-responsive corporate website achieving a 100% Lighthouse/SEO score. Features dynamic content management, SMTP mail service, and SQL database optimization. | `ASP.NET Core`, `MS SQL`, `Entity Framework`, `SEO` |
+| **[Movie Rating & ROI Analysis](#)** | Statistical analysis and data visualization of film industry metrics (Budget, ROI, Genre Relations) utilizing the TMDB dataset. | `Python`, `Pandas`, `Seaborn`, `Matplotlib` |
+| **[Library Automation System](#)** | Console-based automation developed with dynamic memory allocation and struct architectures. Ensured data persistence through a TXT-based file system. | `C`, `Algorithms`, `File Management` |
 
 <br/>
 
