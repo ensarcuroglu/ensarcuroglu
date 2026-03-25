@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open-source Machine Learning and Explainable AI (XAI) projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ensarcuroglu](https://github.com/ensarcuroglu)
+- 👨‍💻 All of my projects are available at [https://github.com/ensarcuroglu](www.linkedin.com/in/ensar-sami-curoğlu-b37560251)
 
 - 💬 Ask me about **Data Preprocessing, XGBoost, Optuna, and Full-Stack Development (.NET)**
 
